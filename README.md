@@ -38,9 +38,23 @@ Construo soluções utilizando n8n, APIs, JavaScript, TypeScript e PostgreSQL pa
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-🌐 Conecte-se comigo
+
+## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-guimar%C3%A3es-743bb640b/)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+
+
+## 📂 Projetos em Destaque
+
+🤖 Assistente Inteligente com IA
+
+Automação desenvolvida com n8n, Groq AI e Google Sheets para atendimento automatizado e gestão de informações.
+
+---
+
+## 📅 Agendamento Inteligente
+
+Sistema de agendamento automatizado desenvolvido para organizar atendimentos e fluxos de trabalho.
