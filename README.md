@@ -2,7 +2,8 @@
 
 🚗 Ex-mecânico em transição para a área de tecnologia.
 
-💻 Estudando automação de processos e desenvolvimento de soluções digitais.
+💻 Desenvolvedor de Automações e Integrações com n8n, APIs e IA.
+Construindo soluções para automação de processos, integração de sistemas e agentes de IA.
 
 📚 Atualmente aprendendo:
 - n8n
