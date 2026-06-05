@@ -53,8 +53,16 @@ Construo soluções utilizando n8n, APIs, JavaScript, TypeScript e PostgreSQL pa
 
 Automação desenvolvida com n8n, Groq AI e Google Sheets para atendimento automatizado e gestão de informações.
 
+![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white) 
+
 ---
 
 ## 📅 Agendamento Inteligente
 
 Sistema de agendamento automatizado desenvolvido para organizar atendimentos e fluxos de trabalho.
+
+![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 Estatísticas GitHub
+
+
