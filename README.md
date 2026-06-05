@@ -1,11 +1,15 @@
 # 👋 Olá, eu sou Paulo Guimarães
 
-🚗 Ex-mecânico em transição para a área de tecnologia.
+Desenvolvedor de Automações e Integrações.
 
-💻 Desenvolvedor de Automações e Integrações com n8n, APIs e IA.
-Construindo soluções para automação de processos, integração de sistemas e agentes de IA.
+Construo soluções utilizando n8n, APIs, JavaScript, TypeScript e PostgreSQL para automatizar processos, integrar sistemas e criar soluções inteligentes.
 
-📚 Atualmente aprendendo:
+🎯 Objetivo: atuar com automação de processos, integrações e soluções baseadas em IA que gerem valor para empresas.
+
+---
+
+📚 Atualmente estudando
+
 - n8n
 - JavaScript
 - TypeScript
@@ -15,7 +19,15 @@ Construindo soluções para automação de processos, integração de sistemas e
 - JSON
 - PostgreSQL
 
-🎯 Objetivo: atuar com automações, integrações e desenvolvimento de sistemas que gerem valor para empresas.
+---
+
+🚀 Áreas de Interesse
+
+- Automação de Processos
+- Integração de Sistemas
+- Inteligência Artificial
+- Desenvolvimento Backend
+- APIs e Webhooks.
 
 ## 🚀 Tecnologias
 
